@@ -1,0 +1,30 @@
+#ifndef _DX_DXLIB_h
+#define _DX_DXLIB_h
+
+#include "Point.h"
+#include "Angle.h"
+#include "base.h"
+#include "Vect2.h"
+#include "Drawer.h"
+#include "Pixel.h"
+#include "Color.h"
+#include "GridOffset.h"
+#include "Quadrilatere.h"
+#include "MouseView.h"
+#include "Dimension.h"
+#include "PythagoreSet.h"
+#include "Coin.h"
+#include "Cell.h"
+#include "Mole.h"
+#include "Plane.h"
+#include "Data.h"
+#include "PinPointSet.h"
+#include "Data.h"
+#include "SceneManager.h"
+#include "GameMap.h"
+#include "sprite.h"
+#include "AnimatedSprite.h"
+#include "RPGCharacter.h"
+#include "Character.h"
+
+#endif
